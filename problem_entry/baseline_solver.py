@@ -14,7 +14,7 @@ Interface:
     - Output: ranked pathways + metrics + constraint flags
 
 Source: replicates optimizer.js logic from
-        https://github.com/Eric-XC/power-pathway-optimizer
+        https://github.com/Chenrui-Xu/power-pathway-optimizer
 """
 
 import json

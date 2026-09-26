@@ -59,4 +59,4 @@ Python 3.6+, no external dependencies.
 
 ## Source
 
-https://github.com/Eric-XC/power-pathway-optimizer
+https://github.com/Chenrui-Xu/power-pathway-optimizer
